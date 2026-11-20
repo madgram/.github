@@ -59,6 +59,19 @@
 - **студия подарков:** собери любой коллекционный подарок и выгрузи в png, gif или стикер
 - **скрипты и mtproto-консоль:** скрипты на js и ts с доступом ко всему api телеграма
 
+## сайт
+
+<p align="center">
+  <a href="https://mad.tg/">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="assets/site-dark.webp">
+      <img src="assets/site-light.webp" width="760" alt="сайт mad.tg">
+    </picture>
+  </a>
+  <br>
+  <sub><a href="https://mad.tg/">открыть mad.tg</a></sub>
+</p>
+
 <details>
 <summary><b>english</b></summary>
 
